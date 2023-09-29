@@ -1,4 +1,4 @@
 # app_tareas
-
-A new Flutter project.
 # parcial2PDM
+Parcial 2 finalizado.
+Thomas Lambert Bollen Chuc - 202008050
